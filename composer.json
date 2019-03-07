@@ -1,0 +1,9 @@
+{
+  "name": "embanet-compass/moodle-mod-turnitintooltwo",
+  "type": "moodle-mod",
+  "description": "Turnitintool v2",
+  "extra": {
+    "installer-name": "turnitintooltwo",
+    "moodle": { "package_folder_name" : "turnitintooltwo" }
+  }
+}
